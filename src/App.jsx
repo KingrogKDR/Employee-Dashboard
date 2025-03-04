@@ -120,7 +120,7 @@ function App() {
                 Employee Dashboard
               </h1>
               <p className="text-gray-600 text-center mb-8">
-                Search for employees by their ID and view their details below.
+                Search for employees by their ID and view their details by clicking on them.
               </p>
               <div className="mt-4">
                 <div>
