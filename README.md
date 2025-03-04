@@ -1,8 +1,3 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
-Certainly! Below is a well-structured and helpful `README.md` for your project. It provides an overview of the project, instructions for setup, and details about its features.
-
----
 
 # Employee Dashboard
 
