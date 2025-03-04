@@ -116,24 +116,6 @@ Then, update the fetch calls in `App.jsx` to use `import.meta.env.VITE_API_URL`.
 
 ---
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
-
 ## Acknowledgments
 
 - [Dummy REST API](https://dummy.restapiexample.com/) for providing the employee data.
@@ -159,12 +141,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Your Name**: [Your Email](mailto:your-email@example.com)
-- **GitHub**: [your-username](https://github.com/your-username)
-
----
-
-Enjoy using the **Employee Dashboard**! 🚀
+- **Abhishek Saikia**: [Email](mailto:abhisheksaikia766@gmail.com)
+- **GitHub**: [KingrogKDR](https://github.com/KingrogKDR
 
 ---
 
