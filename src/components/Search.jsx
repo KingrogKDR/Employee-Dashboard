@@ -16,7 +16,7 @@ const Search = ({ onSearch }) => {
           value={searchId}
           onChange={handleInputChange}
           placeholder="Enter employee id..."
-          className="px-4 py-2 border-2 border-gray-400 rounded-full w-72 lg:w-96 focus:outline-none focus:shadow-md text-sm transition duration-300"
+          className="px-4 py-2 border-2 border-gray-400 rounded-full w-64 lg:w-96 focus:outline-none focus:shadow-md text-sm transition duration-300"
         />
         <img
           src="search.svg"
