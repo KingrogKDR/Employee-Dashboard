@@ -6,7 +6,12 @@ Certainly! Below is a well-structured and helpful `README.md` for your project. 
 
 # Employee Dashboard
 
-![Project Screenshot](./screenshot.png) <!-- Add a screenshot if available -->
+![Project Screenshot](./screenshots/project.png)
+
+**Responsive Design**
+
+![Responsive Design](./screenshots/responsive.png) 
+
 
 The **Employee Dashboard** is a React-based web application that allows users to view, search, and manage employee data. It fetches employee information from an API, displays it in a user-friendly interface, and provides features like searching, deleting, and viewing employee details.
 
@@ -126,14 +131,17 @@ Then, update the fetch calls in `App.jsx` to use `import.meta.env.VITE_API_URL`.
 
 ## Screenshots
 
-### Homepage
-![Homepage](./screenshots/homepage.png) <!-- Add a screenshot of the homepage -->
-
 ### Employee Details Page
-![Employee Details](./screenshots/details.png) <!-- Add a screenshot of the details page -->
+![Employee Details](./screenshots/employeeDetails.png) 
 
 ### Search Functionality
-![Search](./screenshots/search.png) <!-- Add a screenshot of the search functionality -->
+![Search](./screenshots/search.png) 
+
+### Multi-Select Functionality
+![Search](./screenshots/multiSelect.png)
+
+### Rate Limit Error Screen
+![Search](./screenshots/rateLimit.png)
 
 ---
 
@@ -142,7 +150,7 @@ Then, update the fetch calls in `App.jsx` to use `import.meta.env.VITE_API_URL`.
 If you have any questions or feedback, feel free to reach out:
 
 - **Abhishek Saikia**: [Email](mailto:abhisheksaikia766@gmail.com)
-- **GitHub**: [KingrogKDR](https://github.com/KingrogKDR
+- **GitHub**: [KingrogKDR](https://github.com/KingrogKDR)
 
 ---
 
