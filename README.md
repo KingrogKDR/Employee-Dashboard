@@ -6,7 +6,10 @@ Certainly! Below is a well-structured and helpful `README.md` for your project. 
 
 # Employee Dashboard
 
-![Project Screenshot](./screenshots/project.png) 
+![Project Screenshot](./screenshots/project.png)
+
+## Responsive Design
+
 ![Responsive Design](./screenshots/responsive.png) 
 
 
