@@ -147,7 +147,7 @@ Then, update the fetch calls in `App.jsx` to use `import.meta.env.VITE_API_URL`.
 If you have any questions or feedback, feel free to reach out:
 
 - **Abhishek Saikia**: [Email](mailto:abhisheksaikia766@gmail.com)
-- **GitHub**: [KingrogKDR](https://github.com/KingrogKDR
+- **GitHub**: [KingrogKDR](https://github.com/KingrogKDR)
 
 ---
 
